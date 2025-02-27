@@ -105,11 +105,9 @@ Always eager to discuss new ideas and innovations in the field!
 <br />
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruwanWeerawardhana&theme=algolia" alt="SandaruwanWeerawardhana" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruwanWeerawardhana&theme=algolia" width="45%" alt="SandaruwanWeerawardhana" />
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Sandaruwan Weerawardhana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandaruwanWeerawardhana&show_icons=true&count_private=true&theme=algolia""/>
-  </a>
+  <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=SandaruwanWeerawardhana&show_icons=true&theme=gotham"/>
 </p>
 <br>
 
