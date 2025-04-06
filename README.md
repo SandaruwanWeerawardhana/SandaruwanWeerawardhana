@@ -2,7 +2,7 @@
 <h1 align="center">ツ Hello, I'm Sandaruwan</h1>
 <h3 align="center">---|--> Full-Stack Developer <--|---</h3>
 <br>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted. My enthusiasm for software engineering has perpetually developed since an early age. I love exploring new tech stacks 💻 and leveraging them to build cool stuff 🛠️</p>
+<p align="center">The impact of computer technology 🌐 on our lives continues to amaze me — it has transformed the world in ways we never could have imagined. My passion for software engineering has been growing ever since I was a kid. I enjoy diving into new tech stacks 💻 and using them to create awesome, innovative projects 🛠️.</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SandaruwanWeerawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="SandaruwanWeerawardhana" /> 
 </p>
@@ -14,12 +14,11 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
@@ -70,7 +69,7 @@ Always eager to discuss new ideas and innovations in the field!
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind,bootstrap" />
   </a>
 </p>
 
