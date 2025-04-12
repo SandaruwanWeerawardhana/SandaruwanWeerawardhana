@@ -34,7 +34,6 @@
 - Full Stack: Java, JavaScript, HTML, CSS<br>
 - Frontend: React, Angular<br>
 - Backend: Spring Framework<br>
-- CMS: WordPress
 </p>
 
 <h3 align="left">💡 Let's connect:</h3>
