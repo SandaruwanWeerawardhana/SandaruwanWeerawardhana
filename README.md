@@ -61,14 +61,14 @@ Always eager to discuss new ideas and innovations in the field!
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,hibernate" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,hibernate,laravel" />
   </a>
 </p>
 
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind,bootstrap,vue" />
   </a>
 </p>
 
@@ -82,7 +82,8 @@ Always eager to discuss new ideas and innovations in the field!
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp" />
+<!--     <img src="https://skillicons.dev/icons?i=gcp" /> -->
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
