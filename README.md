@@ -1,8 +1,7 @@
 
 <h1 align="center">ツ Hello, I'm Sandaruwan</h1>
 <h3 align="center">---|--> Full-Stack Developer <--|---</h3>
-<br>
-<p align="center">The impact of computer technology 🌐 on our lives continues to amaze me — it has transformed the world in ways we never could have imagined. My passion for software engineering has been growing ever since I was a kid. I enjoy diving into new tech stacks 💻 and using them to create awesome, innovative projects 🛠️.</p>
+<p align="center">🌐Technology reshapes everything. I've loved building software since childhood, always exploring new possibilities.🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SandaruwanWeerawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="SandaruwanWeerawardhana" /> 
 </p>
@@ -18,9 +17,9 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
+<br>
 
 <h3 align="left">🚀 Currently:</h3>
 <p align="left">
@@ -36,13 +35,7 @@
 - Backend: Spring Framework<br>
 </p>
 
-<h3 align="left">💡 Let's connect:</h3>
-<p align="left">
-Passionate about emerging tech and the future of software development.<br>
-Always eager to discuss new ideas and innovations in the field!
-</p>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sandaruwan-linkdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SandaruwanWeerawardhana" height="30" width="40" /></a>
   <a href="weerawardanasw@gmail.com">
@@ -52,7 +45,7 @@ Always eager to discuss new ideas and innovations in the field!
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15007148" height="30" width="40" />
   </a>
 </p>
-<br>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -94,7 +87,6 @@ Always eager to discuss new ideas and innovations in the field!
   </a>
 </p>
 
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -110,17 +102,13 @@ Always eager to discuss new ideas and innovations in the field!
 </p>
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=SandaruwanWeerawardhana&theme=react-dark&hide_border=true&area=true)
+
+
 <p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SandaruwanWeerawardhana&theme=gotham"/>
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<!-- <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /> -->
 
 </p>
 
 ------
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=SandaruwanWeerawardhana&theme=darkhub" alt="SandaruwanWeerawardhana" />
-    </a>
-</p>
+
 <p align="center"><strong><a href="weerawardanasw@gmail.com">weerawardanasw@gmail.com</a></strong></p>
