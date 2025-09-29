@@ -24,8 +24,6 @@
 <h3 align="left">🚀 Currently:</h3>
 <p align="left">
 - Mastering Full Stack Development<br>
-- Studying Spring, React, and Angular<br>
-- UI Designer
 </p>
 
 <h3 align="left">🛠 Tech Stack:</h3>
@@ -48,46 +46,46 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<table align="center" border="0">
 
-- Backend
+<td width="50%" valign="top">
+
+**Backend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring,hibernate,laravel" />
   </a>
 </p>
 
-- Frontend
+**Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,tailwind,bootstrap,vue" />
   </a>
 </p>
 
-- Database
+</td>
+<td width="50%" valign="top">
+
+**Database & Cloud Servers**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
   </a>
 </p>
 
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=gcp" /> -->
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-- Tools
+**Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,postman" />
   </a>
 </p>
 
+</td>
 
+</table>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  ## :chart_with_upwards_trend: Current Stats
