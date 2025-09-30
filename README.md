@@ -46,7 +46,7 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3>
 
 <table align="center" border="0">
 
@@ -85,7 +85,7 @@
 
 </td>
 
-</table>
+</table> -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  ## :chart_with_upwards_trend: Current Stats
