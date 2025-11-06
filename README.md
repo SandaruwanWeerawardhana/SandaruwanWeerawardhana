@@ -1,7 +1,7 @@
 
 <h1 align="center">ツ Hello, I'm Sandaruwan</h1>
-<h3 align="center">---|--> Full-Stack Developer <--|---</h3>
-<p align="center">🌐Technology reshapes everything. I've loved building software since childhood, always exploring new possibilities.🛠️</p>
+<h3 align="center">---|--> Software Engineer <--|---</h3>
+<!-- <p align="center">🌐Technology reshapes everything. I've loved building software since childhood, always exploring new possibilities.🛠️</p> -->
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=SandaruwanWeerawardhana&label=Profile%20views&color=0e75b6&style=flat" alt="SandaruwanWeerawardhana" /> 
 </p>
