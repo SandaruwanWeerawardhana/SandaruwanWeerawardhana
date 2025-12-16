@@ -161,7 +161,7 @@
 <br />
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruwanWeerawardhana&theme=algolia" width="45%" alt="SandaruwanWeerawardhana" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruwanWeerawardhana&theme=algolia" width="45%" alt="SandaruwanWeerawardhana" /> -->
 
   <img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=SandaruwanWeerawardhana&show_icons=true&theme=gotham"/>
 </p>
