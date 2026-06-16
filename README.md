@@ -32,49 +32,14 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🧑‍💻 About Me
 
-```yaml
-name: Sandaruwan Weerawardhana
-role: Software Engineer
-location: Sri Lanka
-focus: Full Stack Development
-
-currently:
-  - Mastering Full Stack Development
-  - Building scalable web applications
-  
-interests:
-  - Clean Architecture & Design Patterns
-  - Cloud Native Development
-  - Open Source Contributions
-```
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- Tech Stack Section -->
-<div align="center">
 
 ## 🛠️ Tech Stack
 
 </div>
 
 <!-- Tech Stack Grid -->
-<table align="center" cellpadding="10" cellspacing="0">
+<table align="center" cellpadding="5" cellspacing="0">
 <tr>
 <td align="center" width="50%" valign="top">
 
