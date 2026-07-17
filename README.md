@@ -132,16 +132,10 @@
 
 <!-- Stats Grid -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=SandaruwanWeerawardhana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
-  &nbsp;
+  <img width="40%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SandaruwanWeerawardhana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruwanWeerawardhana&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=SandaruwanWeerawardhana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
 
 <br/>
 
